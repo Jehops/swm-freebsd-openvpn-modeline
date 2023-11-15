@@ -1,4 +1,4 @@
-;;;; swm-freebsd-battery-modeline.asd
+;;;; swm-freebsd-openvpn-modeline.asd
 
 (asdf:defsystem #:swm-freebsd-openvpn-modeline
   :description "StumpWM mode-line OpenVPN status for FreeBSD"
